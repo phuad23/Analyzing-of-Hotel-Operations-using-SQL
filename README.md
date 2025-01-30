@@ -14,4 +14,5 @@ This project focused on analyzing customer feedback data for a major hotel chain
 
 Overall, I leveraged my data analytics skills to pinpoint weaknesses in specific hotel services and locations, allowing LuxurStay Hotels to address customer concerns and enhance their service quality.
 
-Check out the project **[Here]()**
+Check out the project **[Here](https://github.com/phuad23/Analyzing-of-Hotel-Operations-using-SQL/blob/main/notebook.ipynb)**
+
