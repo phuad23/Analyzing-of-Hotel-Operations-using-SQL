@@ -16,3 +16,5 @@ Overall, I leveraged my data analytics skills to pinpoint weaknesses in specific
 
 Check out the project **[Here](https://github.com/phuad23/Analyzing-of-Hotel-Operations-using-SQL/blob/main/notebook.ipynb)**
 
+This project earned me the Datacamp **SQL Associate [Certification](https://github.com/phuad23/Analyzing-of-Hotel-Operations-using-SQL/blob/main/SQA0016392392308.pdf)**
+
